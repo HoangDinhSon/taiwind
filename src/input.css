@@ -1,16 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-  }
-  .pricing{
-    height: 795px;
-  }
-  .pricing_circle{
+
+  
+  /* .pricing_circle{
     border-radius: 50%;
-  }
-  .pricing_item ul{
-    color: rgba(0, 0, 0, 0.5);
-  }
+  } */
+ 

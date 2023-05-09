@@ -572,8 +572,8 @@ video {
   height: 2rem;
 }
 
-.h-full {
-  height: 100%;
+.h-\[795px\] {
+  height: 795px;
 }
 
 .w-14 {
@@ -610,6 +610,10 @@ video {
 
 .rounded {
   border-radius: 0.25rem;
+}
+
+.rounded-\[50\%\] {
+  border-radius: 50%;
 }
 
 .rounded-sm {
@@ -659,6 +663,10 @@ video {
   text-align: center;
 }
 
+.font-\[Roboto\2c sans-serif\] {
+  font-family: Roboto,sans-serif;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -674,6 +682,10 @@ video {
   line-height: 1.25rem;
 }
 
+.font-light {
+  font-weight: 300;
+}
+
 .font-medium {
   font-weight: 500;
 }
@@ -686,19 +698,5 @@ video {
   line-height: 2rem;
 }
 
-body {
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-}
 
-.pricing{
-  height: 795px;
-}
-
-.pricing_circle{
-  border-radius: 50%;
-}
-
-.pricing_item ul{
-  color: rgba(0, 0, 0, 0.5);
-}
+ 
